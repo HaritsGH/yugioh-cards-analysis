@@ -1,6 +1,6 @@
 # Yugioh OCG Cards Analysis
 
-_Notebook is in Indonesian and is outdated._
+_Notebook is in Indonesian and have not yet been updated since August 2023._
 
 This is my personal project on analyzing Yu-Gi-Oh OCG cards. I am planning to do more exploration and update the notebook when I feel like it.
 
